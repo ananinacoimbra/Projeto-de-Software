@@ -13,11 +13,8 @@ Nesta seção estão os textos analíticos sobre a literatura da disciplina.
     * **Arquivo:** `entregas/resenhas/resenha_microsservicos.md`
     * **Links Relacionados:** [Artigo Fowler](https://martinfowler.com/articles/microservices.html) | [Cap 7 ESM](https://engsoftmoderna.info/cap7.html)
     * **Data de Entrega:** 10/03/2026
----
-
-### 🔗 Links Úteis da Disciplina
-* [Plano de Ensino da Matéria](link-aqui)
-* [Repositório Principal do Grupo (Código)](link-para-o-repo-de-codigo)
+ 
+    * 
 
 ---
 
